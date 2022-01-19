@@ -11,5 +11,8 @@ Prácticas de entrada y salida de datos y persistencia en disco.
 ### Dijkstra para varios mínimos
 Prácticas de modificación del algoritmo de Dijkstra con más de un mínimo.
 
-### Adaptador
-Prácticas para crear una clase intermedia para adaptar objetos similares pero diferentes.
+### Figuras adaptadas
+Prácticas para crear una clase intermedia para adaptar objetos diferentes.
+
+### Ciudad con puentes
+Prácticas sobre el algoritmo de Kruskal de tendido mínimo para encontrar la ruta con mayor flujo naval.
